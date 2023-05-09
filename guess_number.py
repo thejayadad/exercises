@@ -2,8 +2,6 @@ import random #built in python module
 
 target_number = random.randint(1,10) 
 print(target_number)
-guess_count = 0
-game_one = True
 
 count = 0
 while count < 3:

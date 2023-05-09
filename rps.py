@@ -8,4 +8,5 @@ print(random_num)
 
 user_request = input("Please enter your guess 0)Rock... 1)Paper... 2)Scissors ")
 request = int(user_request)
-print(request)
+if request == '2':
+    
